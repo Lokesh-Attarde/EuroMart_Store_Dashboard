@@ -17,6 +17,8 @@ Here, I am sharing a glimpse of my first interactive Dashboard developed using G
 
 - 💬 You can reach me via Email: **lokesh.attarde.83@gmail.com**
 
+- ⚡ Dashboard Flow Video: [EuroMart Store Dashboard](https://drive.google.com/file/d/1anpBCbIfOiqZMf1UHUbTKEzAO5pDUZBY/view?usp=sharing)
+
 
 Thanks & Regards,<br />
 Lokesh R. Attarde.<br />
